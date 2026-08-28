@@ -20,10 +20,3 @@ This project is a simple implementation of the classic Snake game using the C pr
 
 - C
 - Standard C Library
-
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Kendtim/snake-game.git
